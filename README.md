@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Soy Carles</h1>
-<h4 align="center">Soy un apasionado de la programación web que trabaja constantemente para mejorar las habilidades. <br/> Día a día, café a café intento mejorar escribiendo código.</h4>
+<h1 align="center">Hello, I'm Carles <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
+<h4 align="center">Simplicity is one of the golden rules of design. <br/> The audience should have a positive and pleasant experience when using your website or application.</h4>
 </div>
 <br/>
 <div align="center">
