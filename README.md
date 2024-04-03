@@ -11,11 +11,12 @@
 
 <div align="center">
   <a href="https://carvar.es">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/adeeef9300a950507e509135f9232412d0c50e9b/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 <!--
 Autores de la template: 
 - [1999azzar](https://github.com/1999azzar)
+- https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg
 -->
