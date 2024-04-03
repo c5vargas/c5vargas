@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
   
-[![Mis Habilidades](https://skillicons.dev/icons?i=vue,angular,html,css,javascript,php,laravel&perline=10)](https://skillicons.dev)
+[![Mis Habilidades](https://skillicons.dev/icons?i=vue,react,html,css,javascript,php,laravel&perline=10)](https://skillicons.dev)
     
 </div>
 
