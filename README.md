@@ -1,11 +1,11 @@
 <div align="center">
 <h1 align="center">Hello, I'm Carles <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
-<h4 align="center">Simplicity is one of the golden rules of design. <br/> The audience should have a positive and pleasant experience when using your website or application.</h4>
+<h4 align="center">Como desarrollador frontend, he construido mi propio arsenal de herramientas y tecnologías  que me <br/> permiten llevar a cabo proyectos de manera eficiente y con resultados excepcionales.</h4>
 </div>
 <br/>
 <div align="center">
   
-[![Mis Habilidades](https://skillicons.dev/icons?i=vue,react,html,css,javascript,php,laravel&perline=10)](https://skillicons.dev)
+[![Mis Habilidades](https://skillicons.dev/icons?i=javascript,typescript,php,vue,react,laravel,pinia,redux,tailwind,bootstrap,git,mysql,vite,npm,notion,stackoverflow&perline=4)](https://skillicons.dev)
     
 </div>
 
