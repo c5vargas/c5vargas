@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, I'm Carles <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
+<h1 align="center">Soy c5vargas, Frontend Developer <img width="35" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/adeeef9300a950507e509135f9232412d0c50e9b/resources/img/waving.gif"></h1>
 <h4 align="center">Como desarrollador frontend, he construido mi propio arsenal de herramientas y tecnologías  que me <br/> permiten llevar a cabo proyectos de manera eficiente y con resultados excepcionales.</h4>
 </div>
 <br/>
